@@ -149,6 +149,7 @@ Financial data, search APIs, and analytics platforms.
 - [Google Analytics MCP](https://github.com/jasonkneen/mcp-analytics) — Query GA4 reports and events with natural language. `TypeScript` · 🔑 Google OAuth
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) — Web and local search via Brave Search API. Official reference. `TypeScript` · 🔑 Brave API key · 🆓 Free tier
 - [Google Maps MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) — Geocoding, directions, place search. Official reference. `TypeScript` · 🔑 Maps API key
+- [Xquik MCP](https://github.com/Xquik-dev/x-twitter-scraper) - Search, monitor, and automate X/Twitter workflows through MCP and REST APIs. `TypeScript` · 🔑 API key
 
 ---
 
